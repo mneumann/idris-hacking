@@ -1,0 +1,12 @@
+= idris-vim keybindings
+
+LocalLeader = \
+
+* t: show type
+* c: case split
+* d: define
+* p: proof search
+* r: reload file
+* mc: make case
+
+https://github.com/idris-hackers/idris-vim
